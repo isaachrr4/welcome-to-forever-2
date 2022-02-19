@@ -15,6 +15,4 @@ export default function App() {
       <Contact />
     </main>
   );
-}
-
-export default App;
+  }
